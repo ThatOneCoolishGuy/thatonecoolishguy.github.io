@@ -1,0 +1,5 @@
+Hello, and welcome to TSHN!
+This is an example site/file hosted on The Self Hosted Network.
+I hope you enjoy the new type of web!
+
+To upload a new site. Go to room: 416.
