@@ -1,0 +1,11 @@
+theoriginalweb
+  theoriginalweb is a simple hosting-ish service made to be like geocities. it isnt actually real hosting though. it uses redirects and subdomains on IONOS. you have to provide hosting yourself (e.g. via neocities.org, github.io, docs.google.com, or editpad.org.)
+
+websites
+  https://theoriginalweb.com
+  https://pcnerds.theoriginalweb.com
+  https://text.theoriginalweb.com
+
+plans
+  FREE plan - you may upload 1 website per person, you also can request a subdomain change. this plan is absolutely free forever.
+  PAID plan - you may upload 3 websites per person and you can request a subdomain change. this plan costs $5 as a one time purchase.
