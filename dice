@@ -1,0 +1,15 @@
+#!/usr/bin/env python3
+import random
+print("")
+print("Created by The Software Of Liberty Foundation.")
+print("")
+print("               ████████████")
+print("               ██  ████████")
+print("               ████████████")
+print("               ████████████")
+print("               ████████  ██")
+print("               ████████████")
+print("")
+input("       Press enter to roll the die.")
+print("            You rolled a: ", random.randint(1, 6))
+print("")
